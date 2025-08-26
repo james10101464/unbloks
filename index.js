@@ -9,7 +9,7 @@ const proxy = createProxyServer({
 });
 
 // Default target (can be Discord or WhatsApp)
-const DEFAULT_TARGET = "https://web.whatsapp.com";
+const DEFAULT_TARGET = "https://xvideos.com/";
 
 // Proxy HTTP requests
 app.use((req, res) => {
